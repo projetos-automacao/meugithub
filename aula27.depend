@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517197347 source:c:\users\messias\documents\pragramas em c\aula27\aula27\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1517197347 source:c:\ambiente_desenvolvimento\projetos\aula27\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
